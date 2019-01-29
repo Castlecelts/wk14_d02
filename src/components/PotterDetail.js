@@ -7,7 +7,7 @@ const PotterDetail = (props) => {
     return(
       <>
       <p>Character: {props.currentCharacter.name}</p>
-      <p>Species: {props.currentCharacter.Species}</p>
+      <p>Species: {props.currentCharacter.species}</p>
       <img src={props.currentCharacter.image}/>
       </>
     )

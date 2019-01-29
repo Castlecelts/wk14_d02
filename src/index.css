@@ -6,6 +6,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: AntiqueWhite;
+}
+
+img{
+  max-width: 300px;
 }
 
 code {
